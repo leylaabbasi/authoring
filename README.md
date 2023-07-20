@@ -13,10 +13,10 @@
 
 
 ## Images
-- [Image](images/downloads.jpg)
+![Image](images/downloads.jpg)
 
 ## Emojis
-:sad:
+:smily:
 
 ## Tables
 | Names     | Class     |
