@@ -16,7 +16,7 @@
 ![Image](images/downloads.jpg)
 
 ## Emojis
-😺:
+:😺:
 
 ## Tables
 | Names     | Class     |
